@@ -1,0 +1,7 @@
+To perform a Merge Sort on the given array [16, 21, 11, 8, 12, 22], follow these steps:
+
+    Divide the array into two halves: [16, 21, 11] and [8, 12, 22]
+
+    Recursively sort each half: [11, 16, 21] and [8, 12, 22] [8, 11, 12, 16, 21, 22]
+
+Therefore, the sorted array is [8, 11, 12, 16, 21, 22]. The time complexity of Merge Sort is O(n log n), where n is the size of the input array.
