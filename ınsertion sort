@@ -1,0 +1,23 @@
+For the first question, here are the steps for sorting the given array using insertion sort:
+
+    [22, 27, 16, 2, 18, 6]
+
+    [16, 22, 27, 2, 18, 6]
+
+    [2, 16, 22, 27, 18, 6]
+
+    [2, 16, 18, 22, 27, 6]
+
+    [2, 6, 16, 18, 22, 27]
+
+The Big-O complexity of insertion sort is O(n^2), meaning it takes quadratic time to complete. In other words, for an array of size n, insertion sort will take roughly n^2 time steps to sort the array.
+
+For the second part of the question, since 18 is in the middle of the sorted array, the time complexity is O(1) since we can access it directly with an index.
+
+For the second question, here are the first four steps of selection sort for the given array:
+
+    [2, 3, 5, 8, 7, 9, 4, 15, 6]
+
+    [2, 3, 4, 8, 7, 9, 5, 15, 6]
+
+    [2, 3, 4, 5, 7, 9, 8, 15, 6]
